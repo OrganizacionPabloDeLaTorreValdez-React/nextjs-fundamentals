@@ -5,3 +5,6 @@
 
 Source that help me to learn React with NEXTJS:
 https://www.youtube.com/watch?v=_SPoSMmN3ZU
+
+## Inicializar proyecto con nextjs
+`npx create-next-app@latest`
